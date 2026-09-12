@@ -132,8 +132,8 @@ The Arewa DataScience Fellowship's original setup guides remain available for re
 
 | # | Topic | Slides | Lab | Recording | Key Concepts | Reading (Lambert) | Instructor |
 |:---:|---|:---:|:---:|:---:|---|:---:|:---:|
-| 1 | First Programs & the Shell | [Slides](slide/w1.pptx) | [Lab](notebooks/w1.ipynb) | [YouTube](https://youtu.be/0iSYpSarYX4) | The edit–run–debug loop, `print`, `input`, variables, comments | Ch. 1, §2.1–2.2 | Dr. I.S. Ahmad |
-| 2 | Data Types & Expressions | TBA | TBA | TBA | `int` / `float` / `str`, arithmetic, precedence, type conversion, f-strings | Ch. 2 | TBA |
+| 1 | First Programs & the Shell | [Slides](slide/w1.pptx) | [Lab](notebooks/w1.ipynb) | [Session 1](https://youtu.be/0iSYpSarYX4), [Session 2](https://youtu.be/E9I3FcKX2BI?si=5he5_wbvOo4iCDTO)  | The edit–run–debug loop, `print`, `input`, variables, comments | Ch. 1, §2.1–2.2 | Dr. I.S. Ahmad |
+| 2 | Data Types & Expressions | [Slides](slide/w2.pdf) | [Lab](notebooks/w3.ipynb) | [Session 1](https://youtu.be/2pj4_SbwybY), [Session 2](https://youtu.be/rdnLVYVQE_g)  | `int` / `float` / `str`, arithmetic, precedence, type conversion, f-strings | Ch. 2 | Dr. I.S. Ahmad |
 | 3 | Making Decisions | TBA | TBA | TBA | Booleans, comparison & logical operators, `if` / `elif` / `else` | Ch. 3 (selection) | TBA |
 | 4 | Repetition with Loops | TBA | TBA | TBA | `while`, `for`, `range`, accumulator & sentinel patterns | Ch. 3 (loops) | TBA |
 | 5 | Loop Patterns & Nested Logic | TBA | TBA | TBA | Nested loops, combining loops with conditions, input validation, debugging | Ch. 3 (cont.) | TBA |
