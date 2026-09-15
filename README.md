@@ -132,14 +132,14 @@ The Arewa DataScience Fellowship's original setup guides remain available for re
 
 | # | Topic | Slides | Lab | Recording | Key Concepts | Reading (Lambert) | Instructor |
 |:---:|---|:---:|:---:|:---:|---|:---:|:---:|
-| 1 | First Programs & the Shell | [Slides](slide/w1.pptx) | [Lab](notebooks/w1.ipynb) | [Session 1](https://youtu.be/0iSYpSarYX4), [Session 2](https://youtu.be/E9I3FcKX2BI?si=5he5_wbvOo4iCDTO)  | The edit–run–debug loop, `print`, `input`, variables, comments | Ch. 1, §2.1–2.2 | Dr. I.S. Ahmad |
-| 2 | Data Types & Expressions | [Slides](slide/w2.pdf) | [Lab](notebooks/w3.ipynb) | [Session 1](https://youtu.be/2pj4_SbwybY), [Session 2](https://youtu.be/rdnLVYVQE_g)  | `int` / `float` / `str`, arithmetic, precedence, type conversion, f-strings | Ch. 2 | Dr. I.S. Ahmad |
-| 3 | Making Decisions | TBA | TBA | TBA | Booleans, comparison & logical operators, `if` / `elif` / `else` | Ch. 3 (selection) | TBA |
+| 1 | First Programs & the Shell | [Slides](slide/w1.pptx) | [Lab](notebooks/w1.ipynb) | [Session 1](https://youtu.be/0iSYpSarYX4), [Session 2](https://youtu.be/E9I3FcKX2BI?si=5he5_wbvOo4iCDTO)  | The edit–run–debug loop, `print`, `input`, variables, comments | Ch. 1, §2.1–2.2 | [Dr. I.S. Ahmad](https://isahmadbbr.github.io) |
+| 2 | Data Types & Expressions | [Slides](slide/w2.pdf) | [Lab](notebooks/w3.ipynb) | [Session 1](https://youtu.be/2pj4_SbwybY), [Session 2](https://youtu.be/rdnLVYVQE_g)  | `int` / `float` / `str`, arithmetic, precedence, type conversion, f-strings | Ch. 2 | [Dr. I.S. Ahmad](https://isahmadbbr.github.io)|
+| 3 | Making Decisions | [Slides](slide/w3.pdf) | [Lab](notebooks/w3-2.ipynb) | [Session 1](), [Session 2]() | Booleans, comparison & logical operators, `if` / `elif` / `else` | Ch. 3 (selection) | [Dr. I.S. Ahmad](https://isahmadbbr.github.io) |
 | 4 | Repetition with Loops | TBA | TBA | TBA | `while`, `for`, `range`, accumulator & sentinel patterns | Ch. 3 (loops) | TBA |
 | 5 | Loop Patterns & Nested Logic | TBA | TBA | TBA | Nested loops, combining loops with conditions, input validation, debugging | Ch. 3 (cont.) | TBA |
-| 6 | Strings & Lists | TBA | TBA | TBA | Indexing, slicing, string methods, list operations, iteration | Ch. 4, §5.1 | TBA |
-| 7 | Dictionaries & First Functions | TBA | TBA | TBA | Key/value lookup, dict methods, defining functions, parameters, `return` | Ch. 5, §6.1 | TBA |
-| 8 | Functions in Depth & Capstone | TBA | TBA | TBA | Scope, multiple parameters, decomposition, end-to-end capstone program | Ch. 6 | TBA |
+| 6 | Strings & Lists | TBA | TBA | TBA | Indexing, slicing, string methods, list operations, iteration | Ch. 4, §5.1 | [Dr S.H.Muhammad](https://shmuhammadd.github.io) |
+| 7 | Dictionaries & First Functions | TBA | TBA | TBA | Key/value lookup, dict methods, defining functions, parameters, `return` | Ch. 5, §6.1 |[Dr S.H.Muhammad](https://shmuhammadd.github.io) |
+| 8 | Functions in Depth & Capstone | TBA | TBA | TBA | Scope, multiple parameters, decomposition, end-to-end capstone program | Ch. 6 | [Dr S.H.Muhammad](https://shmuhammadd.github.io)|
 
 *Slide decks, lab notebooks, and session recordings will be linked here as each session is delivered.*
 
